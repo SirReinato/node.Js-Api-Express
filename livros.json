@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "src": "https://m.media-amazon.com/images/I/51yxqpcD9iL._SY445_SX342_.jpg",
+    "id": 1
+  },
+  {
+    "nome": "O Guia do Mochileiro das Galáxias",
+    "src": "https://m.media-amazon.com/images/I/81eMrK+qVCL._SL1500_.jpg",
+    "id": 2
+  },
+  {
+    "nome": "Harry Potter e a Pedra Filosofal The Best",
+    "src": "https://m.media-amazon.com/images/I/81ibfYk4qmL._AC_SL1500_.jpg",
+    "id": 3
+  },
+  {
+    "nome": "1984",
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg",
+    "id": 4
+  },
+  {
+    "nome": "A Revolução dos Bichos -_-",
+    "src": "https://m.media-amazon.com/images/I/513ByDjZhdL._SY445_SX342_.jpg",
+    "id": 5
+  },
+  {
+    "nome": "O Pequeno Príncipe",
+    "src": "https://m.media-amazon.com/images/I/51TO7PCLMuL._SY445_SX342_.jpg",
+    "id": 6
+  },
+  {
+    "nome": "Crime e Castigo",
+    "src": "https://m.media-amazon.com/images/I/61ksbqU8kQL._SY445_SX342_.jpg",
+    "id": 7
+  },
+  {
+    "nome": "Dom Casmurro",
+    "src": "https://m.media-amazon.com/images/I/514G3Ox7KzL._SX342_SY445_.jpg",
+    "id": 8
+  },
+  {
+    "nome": "Grande Sertão: Veredas",
+    "src": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/200/9788535931983/grande-sertao-veredas.jpg",
+    "id": 9
+  },
+  {
+    "nome": "O Triste Fim de Policarpo Quaresma",
+    "src": "https://m.media-amazon.com/images/I/911ya+ib85L._SL1500_.jpg",
+    "id": 10
+  },
+  {
+    "nome": "It a Coisa",
+    "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_nGskzCOE3VX6GPhdAp4cbYWpuG2qwcDFfi-biAoLwNWH3c48o4NOJN64noASLQcHGnvHO-8rN26jie5-9ViIuA1tI4XaNqVUUNexQg&usqp=CAc",
+    "id": 11
+  },
+  {
+    "nome": "50 Tons de Cinza",
+    "src": "https://m.media-amazon.com/images/I/51XHQHnyciL._SY445_SX342_.jpg",
+    "id": 12
+  },
+  {
+    "nome": "A Arte da Guerra",
+    "src": "https://m.media-amazon.com/images/I/51Fe45NGwkL._SY342_.jpg",
+    "id": 13
+  }
+]
