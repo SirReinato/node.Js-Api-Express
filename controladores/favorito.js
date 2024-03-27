@@ -14,7 +14,7 @@ function postFavorito(req, res) {
     try {
         const id = req.params.id
         if (id && Number(id)) {
-            inserirFavorito(livroNovo)
+            inserirFavorito(id)
             res.status(201)
             res.send('Livro adicionado com sucesso')
 
